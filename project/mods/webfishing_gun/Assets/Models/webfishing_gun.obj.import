@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/webfishing_gun.obj-78b615d57a43f9280d3e5e5c2b049f40.mesh"
+
+[deps]
+
+files=[ "res://.import/webfishing_gun.obj-78b615d57a43f9280d3e5e5c2b049f40.mesh" ]
+
+source_file="res://mods/webfishing_gun/Assets/Models/webfishing_gun.obj"
+dest_files=[ "res://.import/webfishing_gun.obj-78b615d57a43f9280d3e5e5c2b049f40.mesh", "res://.import/webfishing_gun.obj-78b615d57a43f9280d3e5e5c2b049f40.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
